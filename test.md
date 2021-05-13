@@ -16,7 +16,7 @@ plugins:
 
 [:fa-github: Github](https://github.com/baiziyu-fe){.button.ghost.animated.flipInX.delay-1200}
 
-<slide :class="size-600">
+<slide :class="size-100">
 
 ### 梦开始的地方
 
@@ -35,25 +35,22 @@ plugins:
 `--忘了是哪个大佬了`
 
 
-<slide :class="size-40 aligncenter">
+<slide :class="size-40 bg-black" video="https://webslides.tv/static/videos/working.mp4 poster='https://webslides.tv/static/images/working.jpg'">
 
-### Commands
+# 谈谈大环境 {.aligncenter}
 
 ---
+## 从我们熟悉的大厂开始
 
-```shell {.animated.fadeInUp}
- # create a new slide with an official template
-$ nodeppt new slide.md
+- BAT => 百度，阿里，腾讯
+  - 优秀学生，实力硬
+- WMD => 网易，美团，滴滴
+  - 平平淡淡才是真
+- HTK => 华为，头条，快手
+  - 爱拼才会赢
+- POV => 拼多多，OPPO，VIVO
+  - 活下去的才有资格说话
 
-# create a new slide straight from a github template
-$ nodeppt new slide.md -t username/repo
-
-# start local sever show slide
-$ nodeppt serve slide.md
-
-# to build a slide
-$ nodeppt build slide.md
-```
 
 <slide class="bg-gradient-r" :class=" size-40 aligncenter" image="https://cn.bing.com/az/hprichbg/rb/WinterLynx_ZH-CN7158207296_1920x1080.jpg .dark">
 
