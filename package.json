@@ -1,0 +1,26 @@
+{
+    "name": "my-way",
+    "version": "0.0.1",
+    "description": "我的成长脚印",
+    "main": "index.md",
+    "scripts": {
+        "test": "nodeppt serve ./test.md",
+        "dev": "nodeppt serve ./index.md",
+        "new": "nodeppt new",
+        "build": "nodeppt build"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/baiziyu-fe/nodeppt.git"
+    },
+    "keywords": [
+        "ppt",
+        "style"
+    ],
+    "author": "baiziyu-fe",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/baiziyu-fe/nodeppt/issues"
+    },
+    "homepage": "https://github.com/baiziyu-fe/nodeppt#readme"
+}
