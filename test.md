@@ -16,15 +16,24 @@ plugins:
 
 [:fa-github: Github](https://github.com/baiziyu-fe){.button.ghost.animated.flipInX.delay-1200}
 
-<slide :class="size-30 aligncenter">
+<slide :class="size-600">
 
 ### 梦开始的地方
 
+> 如何与前端相(`jiu`)识(`chan`)
+
 ---
 
-`我给你说java和javascript的一样，只不过一个script版的，相当于pro的意思。` {.animated.fadeInUp}
+`我给你说java和javascript的一样，不过一个是script版的，相当于pro的意思。` {.animated.fadeInUp}
 
 `--某个不知名的挨千刀的好兄弟`
+
+---
+
+`败给晦涩难懂的知识的往往是你的恐惧，有时候尝试一下，So Easy~` {.animated.fadeInUp}
+
+`--忘了是哪个大佬了`
+
 
 <slide :class="size-40 aligncenter">
 
